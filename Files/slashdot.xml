@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">
+
+<channel rdf:about="http://slashdot.org/">
+<title>Slashdot</title>
+<link>http://slashdot.org/</link>
+<description>News for nerds, stuff that matters</description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright 1997-2015, Dice. All Rights Reserved. Slashdot is a Dice Holdings, Inc. service</dc:rights>
+<dc:date>2015-04-08T18:25:12+00:00</dc:date>
+<dc:publisher>Dice</dc:publisher>
+<dc:creator>help@slashdot.org</dc:creator>
+<dc:subject>Technology</dc:subject>
+<syn:updateBase>1970-01-01T00:00+00:00</syn:updateBase>
+<syn:updateFrequency>1</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://science.slashdot.org/story/15/04/08/1635230/amid-controversy-construction-of-telescope-in-hawaii-halted?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://ask.slashdot.org/story/15/04/08/162231/ask-slashdot-what-would-a-constructed-language-have-to-be-to-replace-english?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://news.slashdot.org/story/15/04/08/1536216/obama-says-climate-change-is-harming-americans-health?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://science.slashdot.org/story/15/04/08/1450252/biometrics-are-making-espionage-harder?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://science.slashdot.org/story/15/04/08/1428247/the-solar-system-is-awash-in-water?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://news.slashdot.org/story/15/04/08/1426230/google-apple-and-microsoft-squirm-as-global-tax-schemes-scrutinized?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://news.slashdot.org/story/15/04/08/131217/with-h-1b-cap-hit-zuckerberg-and-ballmer-led-groups-press-for-more-tech-visas?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://it.slashdot.org/story/15/04/08/1232228/anonabox-recalls-hundreds-of-insecure-privacy-routers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://science.slashdot.org/story/15/04/08/0526259/nasas-chief-scientist-predicts-evidence-for-life-beyond-earth-by-2025?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://it.slashdot.org/story/15/04/08/040204/heartbleed-one-year-later-has-anything-changed?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://hardware.slashdot.org/story/15/04/08/045244/feds-boost-goal-to-75k-new-solar-power-workers-by-2020?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://ask.slashdot.org/story/15/04/08/0027252/ask-slashdot-how-serious-is-hacking-in-mobile-games?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://yro.slashdot.org/story/15/04/08/004233/australian-isps-must-hand-over-pirates-info?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://news.slashdot.org/story/15/04/07/2332243/the-cyberlearning-technologies-transforming-education?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://science.slashdot.org/story/15/04/07/2320256/years-after-shutting-down-tevatron-reveals-properties-of-higgs-boson?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+ </rdf:Seq>
+</items>
+<image rdf:resource="http://a.fsdn.com/sd/topics/topicslashdot.gif" />
+<textinput rdf:resource="http://slashdot.org/search.pl" />
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rdf+xml" href="http://rss.slashdot.org/Slashdot/slashdot" /><feedburner:info uri="slashdot/slashdot" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /></channel>
+<image rdf:about="http://a.fsdn.com/sd/topics/topicslashdot.gif">
+<title>Slashdot</title>
+<url>http://a.fsdn.com/sd/topics/topicslashdot.gif</url>
+<link>http://slashdot.org/</link>
+</image>
+<item rdf:about="http://science.slashdot.org/story/15/04/08/1635230/amid-controversy-construction-of-telescope-in-hawaii-halted?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Amid Controversy, Construction of Telescope In Hawaii Halted</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/nR9RPY4MYfA/amid-controversy-construction-of-telescope-in-hawaii-halted</link>
+<description>An anonymous reader sends word that Hawaii Gov. David Ige has asked for a week-long hold in the construction of the Thirty Meter Telescope atop Mauna Kea. "After more than a week of demonstrations and dozens of arrests, Hawaii Gov. David Ige said Tuesday that the company building one of the world's largest telescopes atop Hawaii's Mauna Kea has agreed to his request to halt construction for a week. 'They have responded to my request and on behalf of the president of the University and the Office of Hawaiian Affairs have agreed to a time out on the project, and there will be no construction activities this week,' Ige said at a news conference. Thirty Meter Telescope is constructing the telescope on land that is held sacred to some Native Hawaiians. Scientists say the location is ideal for the telescope, which could allow them to see into the earliest years of the universe. Ige said he hopes the temporary pause in construction will allow the interested parties to have more discussions about the project. Native Hawaiian groups have been protesting the construction of the telescope since its inception last year."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Amid+Controversy%2C+Construction+of+Telescope+In+Hawaii+Halted%3A+http%3A%2F%2Fbit.ly%2F1yW8tUi"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscience.slashdot.org%2Fstory%2F15%2F04%2F08%2F1635230%2Famid-controversy-construction-of-telescope-in-hawaii-halted%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://science.slashdot.org/story/15/04/08/1635230/amid-controversy-construction-of-telescope-in-hawaii-halted?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://science.slashdot.org/story/15/04/08/1635230/amid-controversy-construction-of-telescope-in-hawaii-halted?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7226369&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/nR9RPY4MYfA" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-08T17:54:00+00:00</dc:date>
+<dc:subject>space</dc:subject>
+<slash:department>no-telescope-for-you</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>26</slash:comments>
+<slash:hit_parade>26,26,14,13,2,0,0</slash:hit_parade>
+<feedburner:origLink>http://science.slashdot.org/story/15/04/08/1635230/amid-controversy-construction-of-telescope-in-hawaii-halted?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://ask.slashdot.org/story/15/04/08/162231/ask-slashdot-what-would-a-constructed-language-have-to-be-to-replace-english?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Ask Slashdot: What Would a Constructed Language Have To Be To Replace English?</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/KV6cRGkL8ls/ask-slashdot-what-would-a-constructed-language-have-to-be-to-replace-english</link>
+<description>Loren Chorley writes: The idea of constructing a language capable of replacing English has fascinated me for a long time. I'd like to start a project with some of my own ideas and anyone who's interested, but I'd really like to hear what the Slashdot community thinks on the topic first. Taking for granted that actually replacing English is highly unlikely, what characteristics would the new language need? More specifically: How could the language be made as easy as possible to learn coming from any linguistic background? How could interest in the language be fostered in as many people as possible? What sort of grammar would you choose and why? How would you build words and how would you select meanings for them, and why? What sounds and letters (and script(s)) would you choose? How important is simplicity and brevity? How important are aesthetics (and what makes a language aesthetic)? What other factors could be important to consider, and what other things would you like to see in such a language?&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Ask+Slashdot%3A+What+Would+a+Constructed+Language+Have+To+Be+To+Replace+English%3F%3A+http%3A%2F%2Fbit.ly%2F1E5NGUe"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fask.slashdot.org%2Fstory%2F15%2F04%2F08%2F162231%2Fask-slashdot-what-would-a-constructed-language-have-to-be-to-replace-english%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://ask.slashdot.org/story/15/04/08/162231/ask-slashdot-what-would-a-constructed-language-have-to-be-to-replace-english?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://ask.slashdot.org/story/15/04/08/162231/ask-slashdot-what-would-a-constructed-language-have-to-be-to-replace-english?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7226177&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/KV6cRGkL8ls" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-04-08T17:12:00+00:00</dc:date>
+<dc:subject>communications</dc:subject>
+<slash:department>good-source-control-and-versioning</slash:department>
+<slash:section>askslashdot</slash:section>
+<slash:comments>189</slash:comments>
+<slash:hit_parade>189,189,125,94,22,9,6</slash:hit_parade>
+<feedburner:origLink>http://ask.slashdot.org/story/15/04/08/162231/ask-slashdot-what-would-a-constructed-language-have-to-be-to-replace-english?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://news.slashdot.org/story/15/04/08/1536216/obama-says-climate-change-is-harming-americans-health?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Obama Says Climate Change Is Harming Americans' Health</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Ix8tOSio2Tw/obama-says-climate-change-is-harming-americans-health</link>
+<description>HughPickens.com writes: The Washington Post reports on new comments from President Obama, who says global warming isn't just affecting the weather &amp;mdash; it's harming Americans' health. He has announced steps government and businesses will take to better understand and deal with the problem. Obama said hazards of the changing climate include wildfires sending more pollution into the air, allergy seasons growing longer, and rising cases of insect-borne diseases. "We've got to do better in protecting our vulnerable families," said Obama. "You can't cordon yourself off from air." 
+
+Speaking at Howard University Medical School, Obama announced commitments from Google, Microsoft and others to help the nation's health system prepare for a warmer, more erratic climate. Google has promised to donate 10 million hours of advanced computing time on new tools, including risk maps and early warnings for things like wildfires and oil flares using the Google Earth Engine platform, the White House said. Google's camera cars that gather photos for its "Street View" function will start measuring methane emissions and natural gas leaks in some cities this year. Microsoft's research arm will develop a prototype for drones that can collect large quantities of mosquitoes, then digitally analyze their genes and pathogens. The goal is to create a system that could provide early warnings about infectious diseases that could break out if climate change worsens.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Obama+Says+Climate+Change+Is+Harming+Americans'+Health%3A+http%3A%2F%2Fbit.ly%2F1a5HUFy"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fnews.slashdot.org%2Fstory%2F15%2F04%2F08%2F1536216%2Fobama-says-climate-change-is-harming-americans-health%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://news.slashdot.org/story/15/04/08/1536216/obama-says-climate-change-is-harming-americans-health?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://news.slashdot.org/story/15/04/08/1536216/obama-says-climate-change-is-harming-americans-health?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7226047&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Ix8tOSio2Tw" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-04-08T16:29:00+00:00</dc:date>
+<dc:subject>earth</dc:subject>
+<slash:department>mexicans-and-canadians-sure-dodged-a-bullet</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>116</slash:comments>
+<slash:hit_parade>116,113,72,64,23,6,2</slash:hit_parade>
+<feedburner:origLink>http://news.slashdot.org/story/15/04/08/1536216/obama-says-climate-change-is-harming-americans-health?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://science.slashdot.org/story/15/04/08/1450252/biometrics-are-making-espionage-harder?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Biometrics Are Making Espionage Harder</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/wqGGntN9iyM/biometrics-are-making-espionage-harder</link>
+<description>schwit1 sends this story from Foreign Policy: In the age of iris scans and facial recognition software, biometrics experts like to point out: The eyes don't lie. And that has made tradecraft all the more difficult for U.S. spies. After billions of dollars of investment &amp;mdash; largely by the U.S. government &amp;mdash; the routine collection and analysis of fingerprints, iris scans, and facial images are helping to ferret out terrorists and immigration fraudsters all over the world. But it has also made it harder for undercover agents to remain anonymous. Gone are the days of entering a country with a false passport and wearing a wig and a mustache to hide your true identity. Once an iris scan is on record, it becomes nearly impossible to evade detection. 'In the 21st century, you can't do any of that because of biometrics,' said retired Army Lt. Gen. Michael Flynn, the former director of the Defense Intelligence Agency.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Biometrics+Are+Making+Espionage+Harder%3A+http%3A%2F%2Fbit.ly%2F1Coinyj"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscience.slashdot.org%2Fstory%2F15%2F04%2F08%2F1450252%2Fbiometrics-are-making-espionage-harder%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://science.slashdot.org/story/15/04/08/1450252/biometrics-are-making-espionage-harder?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://science.slashdot.org/story/15/04/08/1450252/biometrics-are-making-espionage-harder?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7225773&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/wqGGntN9iyM" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-04-08T15:48:00+00:00</dc:date>
+<dc:subject>biotech</dc:subject>
+<slash:department>you-can-run-but-you-can't-pass-a-security-checkpoint</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>60</slash:comments>
+<slash:hit_parade>60,59,44,36,12,6,2</slash:hit_parade>
+<feedburner:origLink>http://science.slashdot.org/story/15/04/08/1450252/biometrics-are-making-espionage-harder?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://science.slashdot.org/story/15/04/08/1428247/the-solar-system-is-awash-in-water?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>The Solar System Is Awash In Water</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/MQuX8iWKV9M/the-solar-system-is-awash-in-water</link>
+<description>An anonymous reader writes: NASA has published an article detailing the vast amount of water found on other worlds in our solar system. "There are several worlds thought to possess liquid water beneath their surfaces, and many more that have water in the form of ice or vapor. Water is found in primitive bodies like comets and asteroids, and dwarf planets like Ceres. The atmospheres and interiors of the four giant planets &amp;mdash; Jupiter, Saturn, Uranus and Neptune &amp;mdash; are thought to contain enormous quantities of the wet stuff, and their moons and rings have substantial water ice. Perhaps the most surprising water worlds are the five icy moons of Jupiter and Saturn that show strong evidence of oceans beneath their surfaces: Ganymede, Europa and Callisto at Jupiter, and Enceladus and Titan at Saturn." They've released an infographic to accompany the article. It's also bolstered by new research from the Niels Bohr Institute, which confirmed that glaciers on Mars do contain a large quantity of water ice. These glaciers are separate from the ice caps, existing in belts closer to the planet's equator. This ice has a total volume of roughly 150 billion cubic meters &amp;mdash; enough to cover the entirety of Mars' surface with one meter of ice (abstract).&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=The+Solar+System+Is+Awash+In+Water%3A+http%3A%2F%2Fbit.ly%2F1DjXHwd"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscience.slashdot.org%2Fstory%2F15%2F04%2F08%2F1428247%2Fthe-solar-system-is-awash-in-water%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://science.slashdot.org/story/15/04/08/1428247/the-solar-system-is-awash-in-water?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://science.slashdot.org/story/15/04/08/1428247/the-solar-system-is-awash-in-water?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7225677&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/MQuX8iWKV9M" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-04-08T15:06:00+00:00</dc:date>
+<dc:subject>space</dc:subject>
+<slash:department>water-cooler-discussion</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>49</slash:comments>
+<slash:hit_parade>49,46,33,30,5,1,1</slash:hit_parade>
+<feedburner:origLink>http://science.slashdot.org/story/15/04/08/1428247/the-solar-system-is-awash-in-water?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://news.slashdot.org/story/15/04/08/1426230/google-apple-and-microsoft-squirm-as-global-tax-schemes-scrutinized?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Google, Apple and Microsoft Squirm As Global Tax Schemes Scrutinized</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/sgNy_lvz5zQ/google-apple-and-microsoft-squirm-as-global-tax-schemes-scrutinized</link>
+<description>An anonymous reader writes: Google, Apple and Microsoft chiefs were hauled in front of an Australian Senate Committee on Wednesday and forced to answer questions about their tax dodging structures. "Under questioning from Greens Senator Christine Milne, [Google's Maile Carnegie] revealed none of the revenue derived from Google's lucrative advertising business is taxed in Australia, rather it is booked in Singapore where the corporate tax rate is set at 17 per cent, as opposed to Australia's 30 per cent. ... However in the strongest defense yet of the company's complex tax structure, Ms Carnegie attempted to highlight the hypocrisy of criticising global technology companies for using the same approach that Australian mining firms, like Rio Tinto, use when deriving profits from China. 'These are international tax arrangements and what Google is doing in Australia is very very similar to what Australian companies are doing outside of Australia. I am not sitting here today trying to defend whether those practices are right or wrong, they are simply the way the global tax system is currently working and we are trying to operate within that.' Ms. Carnegie said it was up to the government to create a different system, which the company would then abide by."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Google%2C+Apple+and+Microsoft+Squirm+As+Global+Tax+Schemes+Scrutinized%3A+http%3A%2F%2Fbit.ly%2F1NTCOtk"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fnews.slashdot.org%2Fstory%2F15%2F04%2F08%2F1426230%2Fgoogle-apple-and-microsoft-squirm-as-global-tax-schemes-scrutinized%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://news.slashdot.org/story/15/04/08/1426230/google-apple-and-microsoft-squirm-as-global-tax-schemes-scrutinized?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://news.slashdot.org/story/15/04/08/1426230/google-apple-and-microsoft-squirm-as-global-tax-schemes-scrutinized?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7225665&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/sgNy_lvz5zQ" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-04-08T14:26:00+00:00</dc:date>
+<dc:subject>money</dc:subject>
+<slash:department>all-about-the-benjamins</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>179</slash:comments>
+<slash:hit_parade>179,173,124,111,45,24,19</slash:hit_parade>
+<feedburner:origLink>http://news.slashdot.org/story/15/04/08/1426230/google-apple-and-microsoft-squirm-as-global-tax-schemes-scrutinized?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://news.slashdot.org/story/15/04/08/131217/with-h-1b-cap-hit-zuckerberg-and-ballmer-led-groups-press-for-more-tech-visas?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>With H-1B Cap Hit, Zuckerberg and Ballmer-Led Groups Press For More Tech Visas</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/1UR9K2yb3fE/with-h-1b-cap-hit-zuckerberg-and-ballmer-led-groups-press-for-more-tech-visas</link>
+<description>theodp writes: With the FY2016 H-1B visa cap reached in the first week of April (only the USCIS knows how many applications were submitted by outsourcing companies and from Bentonville, AR), it's no surprise that groups like Mark Zuckerberg's FWD.us PAC and Steve Ballmer's Partnership for a New American Economy Action Fund are pooh-poohing Jesse Jackson's claims that foreign high-tech workers are taking American jobs, and promoting the idea that what's really holding back Americans from jobs is a lack of foreign tech workers with H-1B visas.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=With+H-1B+Cap+Hit%2C+Zuckerberg+and+Ballmer-Led+Groups+Press+For+More+Tech+Visas%3A+http%3A%2F%2Fbit.ly%2F1IsfC7i"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fnews.slashdot.org%2Fstory%2F15%2F04%2F08%2F131217%2Fwith-h-1b-cap-hit-zuckerberg-and-ballmer-led-groups-press-for-more-tech-visas%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://news.slashdot.org/story/15/04/08/131217/with-h-1b-cap-hit-zuckerberg-and-ballmer-led-groups-press-for-more-tech-visas?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://news.slashdot.org/story/15/04/08/131217/with-h-1b-cap-hit-zuckerberg-and-ballmer-led-groups-press-for-more-tech-visas?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7225271&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/1UR9K2yb3fE" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-04-08T13:40:00+00:00</dc:date>
+<dc:subject>business</dc:subject>
+<slash:department>looming-spectre-of-shareholder-value</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>297</slash:comments>
+<slash:hit_parade>297,290,193,156,44,23,16</slash:hit_parade>
+<feedburner:origLink>http://news.slashdot.org/story/15/04/08/131217/with-h-1b-cap-hit-zuckerberg-and-ballmer-led-groups-press-for-more-tech-visas?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://it.slashdot.org/story/15/04/08/1232228/anonabox-recalls-hundreds-of-insecure-privacy-routers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Anonabox Recalls Hundreds of Insecure 'Privacy' Routers</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/ofnpDYWdhLQ/anonabox-recalls-hundreds-of-insecure-privacy-routers</link>
+<description>Sparrowvsrevolution writes: It turns out all those critics of the controversial Tor router project Anonabox might have been on to something. Late last month, Anonabox began contacting the first round of customers who bought its tiny, $100 privacy gadget to warn them of serious security flaws in the device, and to offer to ship them a more secure replacement free of charge. While the miniature routers do direct all of a user's Internet traffic over Tor as promised, the company says that its first batch lacked basic password protection, with no way to keep out unwanted users in Wi-Fi range. And worse yet, the faulty Anonaboxes use the hardcoded root password 'admin,' which allows any of those Wi-Fi intruders to completely hijack the device, snooping on or recording all of a user's traffic. Anonabox's parent company, Sochutel, says that only 350 of the devices lacked that password protection, and that it's fixed the gaping security oversights in newer version of the router. The initial security criticisms of Anonabox helped to convince Kickstarter to freeze the proejct's $600,000 crowdfunding campaign in October. But Anonabox relaunched on Indiegogo and was later acquired by the tech firm Sochutel. Sochutel claims that the security flaws in the routers developed prior to its acquisition of Anonabox were out of its control, and that it's now hiring outside auditors to check its products' security.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Anonabox+Recalls+Hundreds+of+Insecure+'Privacy'+Routers%3A+http%3A%2F%2Fbit.ly%2F1CnzPTJ"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fit.slashdot.org%2Fstory%2F15%2F04%2F08%2F1232228%2Fanonabox-recalls-hundreds-of-insecure-privacy-routers%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://it.slashdot.org/story/15/04/08/1232228/anonabox-recalls-hundreds-of-insecure-privacy-routers?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://it.slashdot.org/story/15/04/08/1232228/anonabox-recalls-hundreds-of-insecure-privacy-routers?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7225115&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/ofnpDYWdhLQ" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-04-08T12:57:00+00:00</dc:date>
+<dc:subject>security</dc:subject>
+<slash:department>less-anona-and-more-box</slash:department>
+<slash:section>it</slash:section>
+<slash:comments>41</slash:comments>
+<slash:hit_parade>41,38,24,19,7,3,2</slash:hit_parade>
+<feedburner:origLink>http://it.slashdot.org/story/15/04/08/1232228/anonabox-recalls-hundreds-of-insecure-privacy-routers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://science.slashdot.org/story/15/04/08/0526259/nasas-chief-scientist-predicts-evidence-for-life-beyond-earth-by-2025?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>NASA's Chief Scientist Predicts Evidence For Life Beyond Earth By 2025</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/1wWzIabRkeo/nasas-chief-scientist-predicts-evidence-for-life-beyond-earth-by-2025</link>
+<description>An anonymous reader writes: Ellen Stofan, chief scientist at NASA, predicts we're not far off from finding evidence for alien life. At a panel discussion yesterday, she said, "I think we're going to have strong indications of life beyond Earth within a decade, and I think we're going to have definitive evidence within 20 to 30 years." She added, "We know where to look. We know how to look. In most cases we have the technology, and we're on a path to implementing it." Stofan thinks putting astronauts on Mars will be a big part of that goal. As efficient as robot missions are, she thinks it'll take humans digging and cracking rocks to find definitive evidence for life on other worlds.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=NASA's+Chief+Scientist+Predicts+Evidence+For+Life+Beyond+Earth+By+2025%3A+http%3A%2F%2Fbit.ly%2F1NTfpbt"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscience.slashdot.org%2Fstory%2F15%2F04%2F08%2F0526259%2Fnasas-chief-scientist-predicts-evidence-for-life-beyond-earth-by-2025%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://science.slashdot.org/story/15/04/08/0526259/nasas-chief-scientist-predicts-evidence-for-life-beyond-earth-by-2025?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://science.slashdot.org/story/15/04/08/0526259/nasas-chief-scientist-predicts-evidence-for-life-beyond-earth-by-2025?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7221605&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/1wWzIabRkeo" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-04-08T12:15:00+00:00</dc:date>
+<dc:subject>space</dc:subject>
+<slash:department>and-it'll-take-just-a-few-years-after-that-to-make-them-angry-at-us</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>139</slash:comments>
+<slash:hit_parade>139,136,93,87,17,9,5</slash:hit_parade>
+<feedburner:origLink>http://science.slashdot.org/story/15/04/08/0526259/nasas-chief-scientist-predicts-evidence-for-life-beyond-earth-by-2025?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://it.slashdot.org/story/15/04/08/040204/heartbleed-one-year-later-has-anything-changed?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Heartbleed One Year Later: Has Anything Changed?</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/tHNa7K6-dGc/heartbleed-one-year-later-has-anything-changed</link>
+<description>darthcamaro writes: It was on April 7, 2014 that the CVE-2014-0160 vulnerability titled "TLS heartbeat read overrun" in OpenSSL was first publicly disclosed &amp;mdash; but to many its a bug known simply as Heartbleed. A new report from certificate vendor Venafi claims that 76% of organizations are still at risk, though it's a statistic that is contested by other vendors as well as other statistics. Qualys' SSL Pulse claims that only 0.3 percent of sites are still at risk. Whatever the risk is today, the bottom line is that Heartbleed did change the security conversation &amp;mdash; but did it change it for the better or the worse?
+A related article explores how Heartbleed could have been found earlier.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Heartbleed+One+Year+Later%3A+Has+Anything+Changed%3F%3A+http%3A%2F%2Fbit.ly%2F1H3L6yK"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fit.slashdot.org%2Fstory%2F15%2F04%2F08%2F040204%2Fheartbleed-one-year-later-has-anything-changed%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://it.slashdot.org/story/15/04/08/040204/heartbleed-one-year-later-has-anything-changed?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://it.slashdot.org/story/15/04/08/040204/heartbleed-one-year-later-has-anything-changed?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7221109&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/tHNa7K6-dGc" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-04-08T09:18:00+00:00</dc:date>
+<dc:subject>security</dc:subject>
+<slash:department>vulnerability-names-have-gotten-a-lot-more-annoying</slash:department>
+<slash:section>it</slash:section>
+<slash:comments>45</slash:comments>
+<slash:hit_parade>45,43,26,23,10,2,1</slash:hit_parade>
+<feedburner:origLink>http://it.slashdot.org/story/15/04/08/040204/heartbleed-one-year-later-has-anything-changed?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://hardware.slashdot.org/story/15/04/08/045244/feds-boost-goal-to-75k-new-solar-power-workers-by-2020?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Feds Boost Goal To 75k New Solar Power Workers By 2020</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/w8nwrxW2Nh4/feds-boost-goal-to-75k-new-solar-power-workers-by-2020</link>
+<description>An anonymous reader writes: The U.S. government has announced plans to help train 75,000 people to enter the solar workforce by 2020, including a number of veterans. The new goal is part of the U.S. Department of Energy (DOE) SunShot Initiative, which helps fund research, manufacturing and market creation. The SunShot Initiative's Solar Instructor Training Network works with 400 community colleges across the country for training, and claims to have already certified 1,000 solar instructors and nearly 30,000 students in the last five years. Ultimately, the SunShot Initiative has a goal for solar energy to reach price parity with conventional power sources in five years.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Feds+Boost+Goal+To+75k+New+Solar+Power+Workers+By+2020%3A+http%3A%2F%2Fbit.ly%2F1Gnn02R"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fhardware.slashdot.org%2Fstory%2F15%2F04%2F08%2F045244%2Ffeds-boost-goal-to-75k-new-solar-power-workers-by-2020%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://hardware.slashdot.org/story/15/04/08/045244/feds-boost-goal-to-75k-new-solar-power-workers-by-2020?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://hardware.slashdot.org/story/15/04/08/045244/feds-boost-goal-to-75k-new-solar-power-workers-by-2020?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7221147&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/w8nwrxW2Nh4" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-04-08T07:30:00+00:00</dc:date>
+<dc:subject>power</dc:subject>
+<slash:department>fortunate-sun</slash:department>
+<slash:section>hardware</slash:section>
+<slash:comments>64</slash:comments>
+<slash:hit_parade>64,54,33,27,8,5,3</slash:hit_parade>
+<feedburner:origLink>http://hardware.slashdot.org/story/15/04/08/045244/feds-boost-goal-to-75k-new-solar-power-workers-by-2020?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://ask.slashdot.org/story/15/04/08/0027252/ask-slashdot-how-serious-is-hacking-in-mobile-games?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Ask Slashdot: How Serious Is Hacking In Mobile Games?</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/kKnS8RYveJE/ask-slashdot-how-serious-is-hacking-in-mobile-games</link>
+<description>Origen writes: As a developer contemplating trying out the mobile game scene, a GDC session about hacking/tampering looked interesting &amp;mdash; but I wasn't able to attend. The presentation isn't available online, but it was paired with a whitepaper [contact details required], which can be downloaded. I'm surprised by some of the information presented and the potential for damage/mischief. Not so much that these issues are unheard of &amp;mdash; they've existed for years on other platforms. What I find surprising is the lack of support at the OS level on mobile devices to defend from many of these types of hacks. Have we learned nothing from the pains of the past? How significant are the points about hacking/piracy in the mobile space that are discussed by this whitepaper?&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Ask+Slashdot%3A+How+Serious+Is+Hacking+In+Mobile+Games%3F%3A+http%3A%2F%2Fbit.ly%2F1FjRcXa"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fask.slashdot.org%2Fstory%2F15%2F04%2F08%2F0027252%2Fask-slashdot-how-serious-is-hacking-in-mobile-games%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://ask.slashdot.org/story/15/04/08/0027252/ask-slashdot-how-serious-is-hacking-in-mobile-games?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://ask.slashdot.org/story/15/04/08/0027252/ask-slashdot-how-serious-is-hacking-in-mobile-games?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7220287&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/kKnS8RYveJE" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-04-08T06:19:00+00:00</dc:date>
+<dc:subject>piracy</dc:subject>
+<slash:department>going-for-the-high-score</slash:department>
+<slash:section>askslashdot</slash:section>
+<slash:comments>68</slash:comments>
+<slash:hit_parade>68,65,33,27,8,6,1</slash:hit_parade>
+<feedburner:origLink>http://ask.slashdot.org/story/15/04/08/0027252/ask-slashdot-how-serious-is-hacking-in-mobile-games?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://yro.slashdot.org/story/15/04/08/004233/australian-isps-must-hand-over-pirates-info?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Australian ISPs Must Hand Over Pirates' Info</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/V16dJWrCs8o/australian-isps-must-hand-over-pirates-info</link>
+<description>wabrandsma sends this report from the BBC:
+An Australian court has ordered internet service providers to hand over details of customers accused of illegally downloading a U.S. movie. In a landmark move, the Federal Court told six firms to divulge names and addresses of those who downloaded The Dallas Buyers Club. ... The court said the data could only be used to secure "compensation for the infringements" of copyright. In the case, which was heard in February, the applicants said they had identified 4,726 unique IP addresses from which their film was shared online using BitTorrent, a peer-to-peer file sharing network. They said this had been done without their permission. Once they received the names of account holders, the company would then have to prove copyright infringement had taken place.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Australian+ISPs+Must+Hand+Over+Pirates'+Info%3A+http%3A%2F%2Fbit.ly%2F1ClJo5y"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fyro.slashdot.org%2Fstory%2F15%2F04%2F08%2F004233%2Faustralian-isps-must-hand-over-pirates-info%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://yro.slashdot.org/story/15/04/08/004233/australian-isps-must-hand-over-pirates-info?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://yro.slashdot.org/story/15/04/08/004233/australian-isps-must-hand-over-pirates-info?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7220251&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/V16dJWrCs8o" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-04-08T04:14:00+00:00</dc:date>
+<dc:subject>piracy</dc:subject>
+<slash:department>making-more-lawyers-rich</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>121</slash:comments>
+<slash:hit_parade>121,118,61,52,16,11,9</slash:hit_parade>
+<feedburner:origLink>http://yro.slashdot.org/story/15/04/08/004233/australian-isps-must-hand-over-pirates-info?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://news.slashdot.org/story/15/04/07/2332243/the-cyberlearning-technologies-transforming-education?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>The Cyberlearning Technologies Transforming Education</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Tb5BUjiKEUE/the-cyberlearning-technologies-transforming-education</link>
+<description>aarondubrow writes: The National Science Foundation funds basic cyberlearning research and since 2011 has awarded roughly 170 grants, totaling more than $120 million, to EdTech research projects around the country. However, NSF's approach to cyber-learning has been different from other public, private and philanthropic efforts. NSF funds compelling ideas, helps rigorously test them and then assists in transitioning the best ideas from research to practice. This article describes several examples of leading cyberlearning projects, from artificial intelligence to augmented reality, that are transforming education.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=The+Cyberlearning+Technologies+Transforming+Education%3A+http%3A%2F%2Fbit.ly%2F1CvAnqm"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fnews.slashdot.org%2Fstory%2F15%2F04%2F07%2F2332243%2Fthe-cyberlearning-technologies-transforming-education%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://news.slashdot.org/story/15/04/07/2332243/the-cyberlearning-technologies-transforming-education?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://news.slashdot.org/story/15/04/07/2332243/the-cyberlearning-technologies-transforming-education?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7220183&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Tb5BUjiKEUE" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-04-08T02:11:00+00:00</dc:date>
+<dc:subject>education</dc:subject>
+<slash:department>learning-to-learn-gooder</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>19</slash:comments>
+<slash:hit_parade>19,15,9,5,3,1,1</slash:hit_parade>
+<feedburner:origLink>http://news.slashdot.org/story/15/04/07/2332243/the-cyberlearning-technologies-transforming-education?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://science.slashdot.org/story/15/04/07/2320256/years-after-shutting-down-tevatron-reveals-properties-of-higgs-boson?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Years After Shutting Down, Tevatron Reveals Properties of Higgs Boson</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/jXWm8b44nQ0/years-after-shutting-down-tevatron-reveals-properties-of-higgs-boson</link>
+<description>sciencehabit writes: A U.S. atom smasher has made an important scientific contribution 3.5 years after it shut down. Scientists are reporting that the Tevatron collider in Batavia, Illinois, has provided new details about the nature of the famed Higgs boson &amp;mdash; the particle that's key to physicists' explanation of how other fundamental particles get their mass and the piece in a theory called the standard model. The new result bolsters the case that the Higgs, which was discovered at a different atom smasher, exactly fits the standard model predictions.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Years+After+Shutting+Down%2C+Tevatron+Reveals+Properties+of+Higgs+Boson%3A+http%3A%2F%2Fbit.ly%2F1c5Rt95"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscience.slashdot.org%2Fstory%2F15%2F04%2F07%2F2320256%2Fyears-after-shutting-down-tevatron-reveals-properties-of-higgs-boson%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://science.slashdot.org/story/15/04/07/2320256/years-after-shutting-down-tevatron-reveals-properties-of-higgs-boson?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://science.slashdot.org/story/15/04/07/2320256/years-after-shutting-down-tevatron-reveals-properties-of-higgs-boson?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7220157&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/jXWm8b44nQ0" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-04-08T01:07:00+00:00</dc:date>
+<dc:subject>science</dc:subject>
+<slash:department>only-collides-particles-if-you-throw-a-rock-at-it</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>68</slash:comments>
+<slash:hit_parade>68,63,41,32,15,9,5</slash:hit_parade>
+<feedburner:origLink>http://science.slashdot.org/story/15/04/07/2320256/years-after-shutting-down-tevatron-reveals-properties-of-higgs-boson?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<textinput rdf:about="http://slashdot.org/search.pl">
+<title>Search Slashdot</title>
+<description>Search Slashdot stories</description>
+<name>query</name>
+<link>http://slashdot.org/search.pl</link>
+</textinput>
+</rdf:RDF>
